@@ -37,3 +37,27 @@
 
 ## HTML 구조화 설계
 - html structure design
+```html
+<!DOCTYPE html>
+ <html>
+    <head>
+        <!-- 문서에 대한 추가 정보를 작성하는 영역 입니다. -->
+    </head>
+    <body>
+        <header>
+            <h1>Welcome Company</h1>
+        </header>
+        <section>
+            <nav></nav>
+            <section></section>
+            <section></section>
+        </section>
+        <section>
+            <div></div>
+            <div></div>
+            <div></div>
+        </section>
+        <footer></footer>
+    </body>
+ </html>
+```
