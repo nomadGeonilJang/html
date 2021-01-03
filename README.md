@@ -26,3 +26,14 @@
 - 이미지
 - 목록
 - 제목
+
+### 레이아웃을 위한 HTML 태그들
+- nav
+- header
+- aside
+- section
+- article
+- footer
+
+## HTML 구조화 설계
+- html structure design
